@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+/* As long as width is => 500 it will be blue */
+/* @media (min-width: 500px) {
+  body {
+    background-color: blue;
+  }
+} */
