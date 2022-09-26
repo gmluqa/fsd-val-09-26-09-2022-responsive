@@ -1,0 +1,14 @@
+.menu-categorias {
+  display: grid;
+  gap: 2vw;
+  align-items: center;
+  justify-content: center;
+}
+
+.categoria {
+  font-size: 3.5vw;
+  font-weight: bolder;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+}
