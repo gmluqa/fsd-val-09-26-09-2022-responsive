@@ -17,3 +17,19 @@
   display: flex;
   margin: auto;
 }
+
+.header {
+  display: block;
+  text-align: center;
+  margin-top: 4%;
+}
+
+.menu {
+  align-items: center;
+  justify-content: center;
+  margin-top: 4%;
+}
+
+.menu-text {
+  font-size: 300%;
+}
